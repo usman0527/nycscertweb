@@ -1,4 +1,4 @@
-# nycsertweb
+# nycscertweb
 
 A pair of cows were talking in the field. One says, "Have you heard about the mad cow disease that's going around?"
 
